@@ -1,3 +1,4 @@
+// https://github.com/jkubisiowski/udemy-angular-shopping-list
 import { Component } from '@angular/core';
 
 @Component({
